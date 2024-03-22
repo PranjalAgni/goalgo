@@ -1,6 +1,7 @@
 package challenges
 
 // solve more problems
+// working on a Sev2 this friday night 💀
 import (
 	"fmt"
 	"sort"
